@@ -1,7 +1,7 @@
 # The Deal
 If you run `sing.py` you get sung to you the song as played here: http://soundcloud.com/ben-newhouse/jason-mrazs-lucky-as-performed
 
-It's pretty awful/hilarious.  I haven't though to much on how to make vickie sing according to rythm in a way that was syntactically simple.
+It's pretty awful/hilarious.  I haven't though to much on how to make vickie sing according to rythm in a way that was syntactically simple (although it's relatively easy to do with `say` meta commands for speed and silence).
 
 # The Requirements
 * OSX (for the `say` command)
